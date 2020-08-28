@@ -1,6 +1,6 @@
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+  <a href="https://www.cnblogs.com/HGNET/"><img src="https://count.getloli.com/get/@github.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
 </p>
 
 #### Platform&Tools
@@ -33,8 +33,8 @@
 
 #### Console&Game
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
+[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/huangenet)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/huangenet)
 
 ⬇️点击下方图片留言⬇️
 
@@ -47,11 +47,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
 ```text
-Vue.js     🕓 17h14m ██████████████░░░░░░░░░░░░░ 52.2%
-JavaScript 🕓 13h38m ███████████▏░░░░░░░░░░░░░░░ 41.3%
-Other      🕓 1h31m  █▎░░░░░░░░░░░░░░░░░░░░░░░░░  4.6%
-JSON       🕓 14m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░  0.7%
-Stylus     🕓 12m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░  0.6%
+HTML    🕓 17h14m ██████████████░░░░░░░░░░░░░ 52.2%
+Python 🕓 13h38m ███████████▏░░░░░░░░░░░░░░░ 41.3%
+Android      🕓 1h31m  █▎░░░░░░░░░░░░░░░░░░░░░░░░░  4.6%
+JAVA       🕓 14m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░  0.7%
+C     🕓 12m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░  0.6%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
@@ -64,7 +64,7 @@ Stylus     🕓 12m    ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike: Global Offensive  🕘 0 hrs 14 mins
+GTA5  🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
