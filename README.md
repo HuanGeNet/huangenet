@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.cnblogs.com/HGNET/"><img src="count.getloli.com/get/@:muzihuaner"></a>
+  <img src="https://count.getloli.com/get/@:muzihuaner" alt=":muzihauner" />
   <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
 </p>
 
